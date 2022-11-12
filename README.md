@@ -2,6 +2,8 @@
 
 Data Visualization for the Professional Software Developer
 
+![mitch py dev](https://imgur.com/M1Os2Hl)
+
 ## Dependencies
 - python 3.7
 
@@ -17,6 +19,3 @@ Data Visualization for the Professional Software Developer
 - from the shell, run `python employment`, and pass options or arguments
     - CRUD ops to track employment
     - the `plot` command to visualize employment as a time-series graph
-
-## Notes
-  This is a CRUD app. We do not need to bring pandas into this.
