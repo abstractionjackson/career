@@ -2,7 +2,7 @@
 
 Data Visualization for the Professional Software Developer
 
-![mitch py dev](https://imgur.com/M1Os2Hl](https://i.imgur.com/M1Os2Hl.png)
+![mitch py dev](https://i.imgur.com/M1Os2Hl.png)
 
 ## Dependencies
 - python 3.7
